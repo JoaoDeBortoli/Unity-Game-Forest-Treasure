@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: ae05f18b77e75544e886af92106252da
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pack 3 monster 1_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 335
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd010c4b71b68145a30beecb91e959c
+      internalID: -1756660812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack 3 monster 1_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 335
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792ab533d2cb0454d9bc4af022c3c953
+      internalID: -814025451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack 3 monster 1_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 335
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9abb1e1f666c047ad3f28f9b3a1693
+      internalID: 1055965599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack 3 monster 1_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 335
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b198979c1bbe0ae4b820bb06e2fa0c57
+      internalID: -1352245545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack 3 monster 1_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 335
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9762bce6f4da0b846ab39e413d6408b0
+      internalID: 382733479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack 3 monster 1_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 335
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd150d2a47065d40afb1ec7df5ce65b
+      internalID: 55944768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack 3 monster 1_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 335
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fac32cbe52cb14f9d718b6ce99969d
+      internalID: 1936573813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pack 3 monster 1_23
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 335
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628dd5d48e42f4e4780a1b441bade357
+      internalID: 173033476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pack 3 monster 1_0: -820988220
+      pack 3 monster 1_1: 1780142959
+      pack 3 monster 1_10: -843898652
+      pack 3 monster 1_100: -808479653
+      pack 3 monster 1_101: -2017502800
+      pack 3 monster 1_102: 2081182980
+      pack 3 monster 1_103: 1062068071
+      pack 3 monster 1_104: -2065287532
+      pack 3 monster 1_105: 811102391
+      pack 3 monster 1_106: -726982228
+      pack 3 monster 1_107: 1677531207
+      pack 3 monster 1_108: 218752943
+      pack 3 monster 1_109: 1726507961
+      pack 3 monster 1_11: -2025400249
+      pack 3 monster 1_110: -842952827
+      pack 3 monster 1_111: 2102354924
+      pack 3 monster 1_112: -1307872473
+      pack 3 monster 1_113: 582708935
+      pack 3 monster 1_114: -2063525491
+      pack 3 monster 1_115: 1849380380
+      pack 3 monster 1_116: 1326322513
+      pack 3 monster 1_117: 2076623910
+      pack 3 monster 1_118: 1608205688
+      pack 3 monster 1_119: -319733146
+      pack 3 monster 1_12: -62621393
+      pack 3 monster 1_120: -1216290940
+      pack 3 monster 1_121: 1208983996
+      pack 3 monster 1_122: 372177764
+      pack 3 monster 1_123: 736635709
+      pack 3 monster 1_124: 1158109587
+      pack 3 monster 1_125: -2008742272
+      pack 3 monster 1_126: 1242844658
+      pack 3 monster 1_127: 1034013843
+      pack 3 monster 1_128: -1512000358
+      pack 3 monster 1_129: 1201778657
+      pack 3 monster 1_13: -836624695
+      pack 3 monster 1_130: 1105169273
+      pack 3 monster 1_131: -1968948891
+      pack 3 monster 1_132: 1015358785
+      pack 3 monster 1_133: -633978906
+      pack 3 monster 1_134: 2117441308
+      pack 3 monster 1_135: -9714221
+      pack 3 monster 1_136: 1461928500
+      pack 3 monster 1_137: -1280121131
+      pack 3 monster 1_138: 1455862675
+      pack 3 monster 1_139: 1317503726
+      pack 3 monster 1_14: -451940636
+      pack 3 monster 1_140: 770285960
+      pack 3 monster 1_141: -1600677930
+      pack 3 monster 1_142: 586799527
+      pack 3 monster 1_143: -122348777
+      pack 3 monster 1_144: -614783486
+      pack 3 monster 1_145: -195737731
+      pack 3 monster 1_15: 2042744764
+      pack 3 monster 1_16: -1756660812
+      pack 3 monster 1_17: -814025451
+      pack 3 monster 1_18: 1055965599
+      pack 3 monster 1_19: -1352245545
+      pack 3 monster 1_2: -1186593322
+      pack 3 monster 1_20: 382733479
+      pack 3 monster 1_21: 55944768
+      pack 3 monster 1_22: 1936573813
+      pack 3 monster 1_23: 173033476
+      pack 3 monster 1_24: 288529067
+      pack 3 monster 1_25: -1914237748
+      pack 3 monster 1_26: -1942748772
+      pack 3 monster 1_27: 821277634
+      pack 3 monster 1_28: 1799301079
+      pack 3 monster 1_29: -593131724
+      pack 3 monster 1_3: 1161683509
+      pack 3 monster 1_30: 1636408379
+      pack 3 monster 1_31: -1635698989
+      pack 3 monster 1_32: -1521681491
+      pack 3 monster 1_33: -585100247
+      pack 3 monster 1_34: -729261767
+      pack 3 monster 1_35: -2054597298
+      pack 3 monster 1_36: 189811579
+      pack 3 monster 1_37: -1362151692
+      pack 3 monster 1_38: -296275751
+      pack 3 monster 1_39: -1807003039
+      pack 3 monster 1_4: 1773313383
+      pack 3 monster 1_40: -1362290317
+      pack 3 monster 1_41: -923077928
+      pack 3 monster 1_42: 1935619943
+      pack 3 monster 1_43: -296278474
+      pack 3 monster 1_44: -1047850961
+      pack 3 monster 1_45: -1518585277
+      pack 3 monster 1_46: -1271331151
+      pack 3 monster 1_47: -913608356
+      pack 3 monster 1_48: -1840927626
+      pack 3 monster 1_49: 69482829
+      pack 3 monster 1_5: -1978040845
+      pack 3 monster 1_50: -1898264377
+      pack 3 monster 1_51: 383233823
+      pack 3 monster 1_52: 276112478
+      pack 3 monster 1_53: 1412511700
+      pack 3 monster 1_54: 1977197128
+      pack 3 monster 1_55: 374642959
+      pack 3 monster 1_56: 1631386103
+      pack 3 monster 1_57: -2092916790
+      pack 3 monster 1_58: 266840563
+      pack 3 monster 1_59: -857029060
+      pack 3 monster 1_6: -2113653712
+      pack 3 monster 1_60: 703211175
+      pack 3 monster 1_61: 1256763924
+      pack 3 monster 1_62: 1940092514
+      pack 3 monster 1_63: -1726083387
+      pack 3 monster 1_64: -1784832750
+      pack 3 monster 1_65: 1292126517
+      pack 3 monster 1_66: 240096957
+      pack 3 monster 1_67: 1897183739
+      pack 3 monster 1_68: -407136099
+      pack 3 monster 1_69: -1711673282
+      pack 3 monster 1_7: 319984987
+      pack 3 monster 1_70: 1424252538
+      pack 3 monster 1_71: 511626177
+      pack 3 monster 1_72: -368624600
+      pack 3 monster 1_73: -1252504652
+      pack 3 monster 1_74: -1891932676
+      pack 3 monster 1_75: -150006066
+      pack 3 monster 1_76: -1883251841
+      pack 3 monster 1_77: -1951218180
+      pack 3 monster 1_78: 152500290
+      pack 3 monster 1_79: -1422997287
+      pack 3 monster 1_8: -563889747
+      pack 3 monster 1_80: -1064512041
+      pack 3 monster 1_81: -1172302162
+      pack 3 monster 1_82: 1840858056
+      pack 3 monster 1_83: 1072253674
+      pack 3 monster 1_84: 1110027648
+      pack 3 monster 1_85: 1518146427
+      pack 3 monster 1_86: -1586875765
+      pack 3 monster 1_87: 883204092
+      pack 3 monster 1_88: 1833640724
+      pack 3 monster 1_89: 290344699
+      pack 3 monster 1_9: -193912314
+      pack 3 monster 1_90: -1077567105
+      pack 3 monster 1_91: -1354901032
+      pack 3 monster 1_92: 1742940017
+      pack 3 monster 1_93: 1927081846
+      pack 3 monster 1_94: 1708583600
+      pack 3 monster 1_95: 1244610716
+      pack 3 monster 1_96: -648644587
+      pack 3 monster 1_97: 1111273969
+      pack 3 monster 1_98: -1808454411
+      pack 3 monster 1_99: 1018335026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
